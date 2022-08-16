@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Innovations for Poverty Action](https://www.poverty-action.org/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning machine learning techniques
   
 
 - ❓ Ask me about development issues and how to involve new programming tools  
