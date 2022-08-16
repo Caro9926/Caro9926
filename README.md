@@ -101,11 +101,11 @@
 
 ##  Articles Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Economics and data science articles I have written: 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><a href="https://datasciencepe.substack.com/p/dual-tone-multiple-frequency-dtmf"> /></div>  
 
 <br/>  
