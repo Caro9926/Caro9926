@@ -106,6 +106,6 @@ Economics and data science articles I have written:
 
 <br/>  
 
-<div align="center"><a href="https://datasciencepe.substack.com/p/dual-tone-multiple-frequency-dtmf"> /></div>  
+<div align="center"><a href="https://datasciencepe.substack.com/p/dual-tone-multiple-frequency-dtmf"> Dual-Tone Multiple Frequency (DTMF): Implementaciones en encuestas telefónicas</div>  
 
 <br/>  
