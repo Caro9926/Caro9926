@@ -1,7 +1,7 @@
 ### Hi, I am Carolina 👋
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/Caro9926/Caro9926/blob/main/Portada%20GitHub.png" align="center" style="width: 100%" />
 </div>  
   
 
