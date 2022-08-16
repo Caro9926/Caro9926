@@ -107,5 +107,6 @@ Economics and data science articles I have written:
 <br/>  
 
 <div align="center"><a href="https://datasciencepe.substack.com/p/dual-tone-multiple-frequency-dtmf"> Dual-Tone Multiple Frequency (DTMF): Implementaciones en encuestas telefónicas</div>  
+<div align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6873039882248355840/"> Cambio climático y pobreza </div>  
 
 <br/>  
