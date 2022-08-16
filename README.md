@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Carolina 👋
 
 <div align="center">
 <img src="" align="center" style="width: 100%" />
