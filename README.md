@@ -108,5 +108,7 @@ Economics and data science articles I have written:
 
 <div align="center"><a href="https://datasciencepe.substack.com/p/dual-tone-multiple-frequency-dtmf"> Dual-Tone Multiple Frequency (DTMF): Implementaciones en encuestas telefónicas</div>  
 <div align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6873039882248355840/"> Cambio climático y pobreza </div>  
+<div align="center"><a href="https://datasciencepe.substack.com/p/herramientas-de-machine-learning"> Herramientas de Machine Learning para Business Intelligence </div>
+<div align="center"><a href="https://womenineconomicsperu.blogspot.com/2021/10/impuesto-rosa-el-uso-de-productos-de.html?fbclid=IwAR2TKR99_z1wq3ixkcj5jnDAOGlBSRP8r5n_qC6RZR8x6aoeJPKNRgB2Jms"> Impuesto rosa, el uso de productos de higiene femenina y la asistencia escolar </div>
 
 <br/>  
