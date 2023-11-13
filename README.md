@@ -1,4 +1,4 @@
-### Bienvenue, Je suis Carolina/ I’m Carolina👋
+### Bienvenue, Je m'apelle Carolina/ I’m Carolina👋
 
 <div align="center">
 <img src="https://github.com/Caro9926/Caro9926/blob/main/Portada_GitHub_2.png" align="center" style="width: 100%" />
