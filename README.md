@@ -8,8 +8,7 @@
 ### <div align="center">Hi, I'm Carolina, researcher and programmer 👩🏾‍💻 working on impact evaluation projects 🎯</div>  
   
 
-- 🔭 I’m currently working for an education study at the Inter-American Development Bank (IDB)
-  
+- 🔭 I’m currently working as a consultant and improving my programming skills.
 
 - 🌱 I’m currently learning machine learning techniques
   
