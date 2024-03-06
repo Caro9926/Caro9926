@@ -10,32 +10,21 @@ Bienvenido a mi espacio en GitHub. Soy un apasionada de integrar herramientas de
 - 📚 Me encanta compartir conocimientos y colaborar en proyectos interesantes.
 - :european_castle: Tengo un nivel avanzado de inglés y estoy aprendiendo francés. 
 
-## Proyectos Destacados
+## Repositorios Destacados
 
-- [Proyecto 1]: Breve descripción o enlace.
-- [Proyecto 2]: Breve descripción o enlace.
-- [Proyecto 3]: Breve descripción o enlace.
+- [Portfolio]: Págiana web 
+- [Assignments Coding Dojo]: Repositorio con tareas realizadas en el Bootcamp de Desarrollo Web de Coding Dojo 2022
+- [Mini guía de comandos GitBash]: Lista de comandos para emplear en la interfaz de GitBash
 
-## Tecnologías que Utilizo
+## Programas que utilizo
 
-- 💻 [Lenguajes de Programación]: [Lista de lenguajes que utilizas].
-- 🛠️ [Herramientas y Tecnologías]: [Lista de herramientas y tecnologías que utilizas].
-- 📦 [Frameworks]: [Lista de frameworks que utilizas].
-
-## ¡Conéctate Conmigo!
-
-¡Me encantaría conectarme contigo! Encuéntrame en:
-
-- 🐦 [Twitter](https://twitter.com/tu_usuario)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu_perfil/)
-- 🌐 [Sitio Web/Portfolio](https://www.tu-sitio-web.com/)
+- 💻 [Programas Estadísticos]: STATA, Python & R. 
+- 🛠️ [Software Development]: HTML, CSS, Javascript, Python & JAVA.
+- 📦 [Frameworks]: Mern & Flask .
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme para cualquier colaboración o pregunta. 😊
 
 
-
-
-  
 
 <br/>  
 
