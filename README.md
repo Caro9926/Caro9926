@@ -95,12 +95,6 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Caro9926&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
 ##  Articles Posts  
 <!-- BLOG-POST-LIST:START -->  
 Economics and data science articles I have written: 
