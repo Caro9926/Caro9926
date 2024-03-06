@@ -15,13 +15,13 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Repository with tasks carried out in the Coding Dojo 2022 Web Development Bootcamp.
 - [JAVA Projects:](https://github.com/Caro9926/JAVA-Projects) JAVA model projects. 
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NjYyNjQsIm5iZiI6MTcwOTc2NTk2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA2VDIyNTkyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwYTIwMTM2OThiZjNmNDMzZjBlY2RlN2M1MzA4ZGI4NmJkNjY1MjYxZjkzOTZlMTQ4NjU4NjM5OWZjMGU4MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.A3PDZEXseur9t7ogUlUMcOxDIwsQN6COqukXIYhxWhI" width="80"> My Skill Set 
+## <img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NjYyNjQsIm5iZiI6MTcwOTc2NTk2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA2VDIyNTkyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwYTIwMTM2OThiZjNmNDMzZjBlY2RlN2M1MzA4ZGI4NmJkNjY1MjYxZjkzOTZlMTQ4NjU4NjM5OWZjMGU4MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.A3PDZEXseur9t7ogUlUMcOxDIwsQN6COqukXIYhxWhI" width="70"> My Skill Set 
 
 - 💻 [Statistics Programs]: STATA, Python & R. 
 - 🛠️ [Software Development]: HTML, CSS, Javascript, Python & JAVA.
 - 📦 [Frameworks]: Mern & Flask .
 
-##  Articles Posts  
+## <img src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NjY0OTQsIm5iZiI6MTcwOTc2NjE5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA2VDIzMDMxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkZmJmYzU3NGUyZjZjOGM4NDJmOGY1NTRiNTQyMjk0YTdmN2E2YmYyM2Y5ZTM2NzFjOWFkMjJkMTgxZTlhMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mhSS_APr1sbeiJ3ASsNAqKpnXLCUvupL5IQRhO59X5M" width="50"> Articles Posts  
 <!-- BLOG-POST-LIST:START -->  
 Economics and data science articles I have written: 
 <!-- BLOG-POST-LIST:END -->  
@@ -33,5 +33,5 @@ Economics and data science articles I have written:
 
 <br/>  
 
-## Thanks
+## <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="60"> Thanks
 Thank you for visiting my profile! Feel free to explore my projects and contact me for any collaboration or questions. 😊
