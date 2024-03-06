@@ -1,4 +1,4 @@
-# ¡Hi, I am Carolina! 👋 Je suis Carolina!:rainbow: Hola, soy Carolina! :peru:
+# ¡Hi, I am Carolina! 👋 Je suis Carolina! :rainbow: Hola, soy Carolina! :peru:
 
 Welcome to my space on GitHub. I am passionate about integrating programming tools into impact evaluation projects. Here you will find a variety of projects and contributions that reflect my journey in the world of programming.
 
