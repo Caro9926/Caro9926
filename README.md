@@ -1,29 +1,25 @@
-# ¡Hola, soy Carolina! 👋
+# ¡Hi, I am Carolina! 👋 Je suis Carolina!:rainbow: Hola, soy Carolina! :peru:
 
-Bienvenido a mi espacio en GitHub. Soy un apasionada de integrar herramientas de programación en proyectos de evaluación de impacto . Aquí encontrarás una variedad de proyectos y contribuciones que reflejan mi viaje en el mundo de la programación 
+Welcome to my space on GitHub. I am passionate about integrating programming tools into impact evaluation projects. Here you will find a variety of projects and contributions that reflect my journey in the world of programming.
 
-## Acerca de Mí
+## About me
 
-- 🚀 Actualmente, estoy enfocada .
-- 💡 Disfruto de aprender nuevos lenguajes o profundizar en ellos como Python. SQL o JavaScript.
-- 🌱 Siempre estoy aprendiendo y buscando nuevos desafíos.
-- 📚 Me encanta compartir conocimientos y colaborar en proyectos interesantes.
-- :european_castle: Tengo un nivel avanzado de inglés y estoy aprendiendo francés. 
+- 🚀 Currently, I am focused on my professional growth and personal development. I like to work on projects related to public policy and impact evaluation, as well as programming projects.
+- 💡 I enjoy learning new languages or delving into them like Python. SQL or JavaScript.
+- 🌱 I am always learning and looking for new challenges.
+- 📚 I love sharing knowledge and collaborating on interesting projects.
+- :european_castle: I have an advanced level of English and I am learning French.
+## Featured Repositories
 
-## Repositorios Destacados
+- [Portfolio]: In process :building_construction:
+- [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Repository with tasks carried out in the Coding Dojo 2022 Web Development Bootcamp.
+- [JAVA Projects:](https://github.com/Caro9926/JAVA-Projects) JAVA model projects. 
 
-- [Portfolio]: Página web
-- [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Repositorio con tareas realizadas en el Bootcamp de Desarrollo Web de Coding Dojo 2022
-- [JAVA Projects:](https://github.com/Caro9926/JAVA-Projects) Proyectos modelo usando JAVA
+## Skills set 
 
-## Programas que utilizo
-
-- 💻 [Programas Estadísticos]: STATA, Python & R. 
+- 💻 [Statistics Programs]: STATA, Python & R. 
 - 🛠️ [Software Development]: HTML, CSS, Javascript, Python & JAVA.
 - 📦 [Frameworks]: Mern & Flask .
-
-¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme para cualquier colaboración o pregunta. 😊
-
 
 
 <br/>  
@@ -118,3 +114,4 @@ Economics and data science articles I have written:
 <div align="center"><a href="https://womenineconomicsperu.blogspot.com/2021/10/impuesto-rosa-el-uso-de-productos-de.html?fbclid=IwAR2TKR99_z1wq3ixkcj5jnDAOGlBSRP8r5n_qC6RZR8x6aoeJPKNRgB2Jms"> Impuesto rosa, el uso de productos de higiene femenina y la asistencia escolar </div>
 
 <br/>  
+¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme para cualquier colaboración o pregunta. 😊
