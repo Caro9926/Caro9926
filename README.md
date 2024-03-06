@@ -36,4 +36,6 @@ Economics and data science articles I have written:
 <div align="center"><a href="https://womenineconomicsperu.blogspot.com/2021/10/impuesto-rosa-el-uso-de-productos-de.html?fbclid=IwAR2TKR99_z1wq3ixkcj5jnDAOGlBSRP8r5n_qC6RZR8x6aoeJPKNRgB2Jms"> Impuesto rosa, el uso de productos de higiene femenina y la asistencia escolar </div>
 
 <br/>  
-¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme para cualquier colaboración o pregunta. 😊
+
+## Thanks
+Thank you for visiting my profile! Feel free to explore my projects and contact me for any collaboration or questions. 😊
