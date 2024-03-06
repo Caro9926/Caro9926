@@ -12,9 +12,9 @@ Bienvenido a mi espacio en GitHub. Soy un apasionada de integrar herramientas de
 
 ## Repositorios Destacados
 
-- [Portfolio]: Págiana web 
-- [Assignments Coding Dojo]: Repositorio con tareas realizadas en el Bootcamp de Desarrollo Web de Coding Dojo 2022
-- [Mini guía de comandos GitBash]: Lista de comandos para emplear en la interfaz de GitBash
+- [Portfolio]: Página web 
+- <a [Assignments Coding Dojo] href="https://github.com/Caro9926/CodingDojo_Assignments" target="_blank">: Repositorio con tareas realizadas en el Bootcamp de Desarrollo Web de Coding Dojo 2022
+-[Mini guía de comandos GitBash]: Lista de comandos para emplear en la interfaz de GitBash
 
 ## Programas que utilizo
 
