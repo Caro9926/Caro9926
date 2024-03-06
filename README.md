@@ -1,22 +1,40 @@
-### Bienvenue, Je m'apelle Carolina/ I’m Carolina👋
+# ¡Hola, soy Carolina! 👋
 
-<div align="center">
-<img src="https://github.com/Caro9926/Caro9926/blob/main/Portada_GitHub_2.png" align="center" style="width: 100%" />
-</div>  
-  
+Bienvenido a mi espacio en GitHub. Soy un apasionada de integrar herramientas de programación en proyectos de evaluación de impacto . Aquí encontrarás una variedad de proyectos y contribuciones que reflejan mi viaje en el mundo de la programación 
 
-### <div align="center">Hi, I'm Carolina, researcher and programmer 👩🏾‍💻 working on impact evaluation projects 🎯</div>  
-  
+## Acerca de Mí
 
-- 🔭 I’m currently working as a consultant and improving my programming skills.
+- 🚀 Actualmente, estoy enfocada .
+- 💡 Disfruto de aprender nuevos lenguajes o profundizar en ellos como Python. SQL o JavaScript.
+- 🌱 Siempre estoy aprendiendo y buscando nuevos desafíos.
+- 📚 Me encanta compartir conocimientos y colaborar en proyectos interesantes.
+- :european_castle: Tengo un nivel avanzado de inglés y estoy aprendiendo francés. 
 
-- 🌱 I’m currently learning machine learning techniques
-  
+## Proyectos Destacados
 
-- ❓ Ask me about development issues and how to involve new programming tools  
-  
+- [Proyecto 1]: Breve descripción o enlace.
+- [Proyecto 2]: Breve descripción o enlace.
+- [Proyecto 3]: Breve descripción o enlace.
 
-- ⚡ Fun fact: I really like doing sudoku  
+## Tecnologías que Utilizo
+
+- 💻 [Lenguajes de Programación]: [Lista de lenguajes que utilizas].
+- 🛠️ [Herramientas y Tecnologías]: [Lista de herramientas y tecnologías que utilizas].
+- 📦 [Frameworks]: [Lista de frameworks que utilizas].
+
+## ¡Conéctate Conmigo!
+
+¡Me encantaría conectarme contigo! Encuéntrame en:
+
+- 🐦 [Twitter](https://twitter.com/tu_usuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu_perfil/)
+- 🌐 [Sitio Web/Portfolio](https://www.tu-sitio-web.com/)
+
+¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme para cualquier colaboración o pregunta. 😊
+
+
+
+
   
 
 <br/>  
