@@ -9,7 +9,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - 🌱 I am always learning and looking for new challenges.
 - 📚 I love sharing knowledge and collaborating on interesting projects.
 - :european_castle: I have an advanced level of English and I am learning French.
-## Featured Repositories
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  width="50"> Featured Repositories
 
 - [Portfolio]: In process :building_construction:
 - [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Repository with tasks carried out in the Coding Dojo 2022 Web Development Bootcamp.
