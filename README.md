@@ -2,7 +2,7 @@
 
 Welcome to my space on GitHub. I am passionate about integrating programming tools into impact evaluation projects. Here you will find a variety of projects and contributions that reflect my journey in the world of programming.
 
-## About me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Little things about me 
 
 - 🚀 Currently, I am focused on my professional growth and personal development. I like to work on projects related to public policy and impact evaluation, as well as programming projects.
 - 💡 I enjoy learning new languages or delving into them like Python. SQL or JavaScript.
