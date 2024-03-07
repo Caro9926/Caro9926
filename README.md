@@ -11,7 +11,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - :european_castle: I have an advanced level of English and I am learning French.
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  width="50"> Featured Repositories
 
-- [Portfolio]: In process <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  width="200"> 
+- [Portfolio]:(https://caro9926.github.io/) In process <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  width="200"> 
 - [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Repository with tasks carried out in the Coding Dojo 2022 Web Development Bootcamp.
 - [JAVA Projects:](https://github.com/Caro9926/JAVA-Projects) JAVA model projects. 
 
