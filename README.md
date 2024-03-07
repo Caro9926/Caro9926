@@ -21,7 +21,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - 🛠️ [Software Development]: HTML, CSS, Javascript, Python & JAVA.
 - 📦 [Frameworks]: Mern & Flask .
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NjY0OTQsIm5iZiI6MTcwOTc2NjE5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA2VDIzMDMxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkZmJmYzU3NGUyZjZjOGM4NDJmOGY1NTRiNTQyMjk0YTdmN2E2YmYyM2Y5ZTM2NzFjOWFkMjJkMTgxZTlhMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mhSS_APr1sbeiJ3ASsNAqKpnXLCUvupL5IQRhO59X5M" width="60"> Articles Posts  
+## <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="60"> Articles Posts  
 <!-- BLOG-POST-LIST:START -->  
 Economics and data science articles I have written: 
 <!-- BLOG-POST-LIST:END -->  
