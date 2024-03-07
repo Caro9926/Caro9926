@@ -15,7 +15,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Repository with tasks carried out in the Coding Dojo 2022 Web Development Bootcamp.
 - [JAVA Projects:](https://github.com/Caro9926/JAVA-Projects) JAVA model projects. 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70"> My Skill Set 
+## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="60"> My Skill Set 
 
 - 💻 [Statistics Programs]: STATA, Python & R. 
 - 🛠️ [Software Development]: HTML, CSS, Javascript, Python & JAVA.
