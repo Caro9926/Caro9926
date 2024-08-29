@@ -4,7 +4,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Little things about me 
 
-- 🚀 Currently, I am a design consultant for (https://www.thewhyhub.com/) The Why Hub
+- 🚀 Currently, I am a design consultant for <a href="https://www.thewhyhub.com/"> The Why Hub
 - 💡 I enjoy learning new languages or delving into them like Python. SQL or JavaScript.
 - 🌱 I am always learning and looking for new challenges.
 - 📚 I love sharing knowledge and collaborating on interesting projects.
