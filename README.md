@@ -4,11 +4,12 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Little things about me 
 
-- 🚀 Currently, I am a design consultant for <a href="https://www.thewhyhub.com/"> The Why Hub. </a> At the same time, I am researching various branches of development.
-- 💡 I enjoy learning new languages or delving into them like Python. SQL or JavaScript.
-- 🌱 I am always learning and looking for new challenges.
-- 📚 I love sharing knowledge and collaborating on interesting projects.
-- :european_castle: I have an advanced level of English and I am learning French.
+- 🚀 Currently, I am a design consultant for <a href="https://www.thewhyhub.com/">The Why Hub</a>. At the same time, I am researching various branches of development.  
+- 🌱 I am always learning and looking for new challenges.  
+- 📚 I love sharing knowledge and collaborating on interesting projects.  
+- 🏰 I have an advanced level of English and I am learning French.  
+- 🎓 Currently studying to become a certified Data Scientist — already certified as a Data Analyst — while also exploring the world of Artificial Intelligence with curiosity and purpose.
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  width="50"> Featured Repositories
 
 - [Portfolio:](https://caro9926.github.io/) My personal website.
@@ -17,9 +18,9 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 ## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="60"> My Skill Set 
 
-- 💻 [Statistics Programs]: STATA, Python & R. 
-- 🛠️ [Software Development]: HTML, CSS, Javascript, Python & JAVA.
-- 📦 [Frameworks]: Mern & Flask .
+- 💻 [Statistics & Data Tools]: STATA, Python, SQL & R  
+- 🛠️ [Front-End Development]: HTML, CSS & JavaScript  
+- 📊 [Data Visualization]: Excel & Power BI
 
 ## <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="60"> Articles Posts  
 <!-- BLOG-POST-LIST:START -->  
