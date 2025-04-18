@@ -12,9 +12,17 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  width="50"> Featured Repositories
 
-- [Portfolio:](https://caro9926.github.io/) My personal website.
-- [PDF_Scrapping:](https://github.com/Caro9926/PDF_Scrapping) In process <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  width="200">
-- [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Repository with tasks carried out in the Coding Dojo 2022 Web Development Bootcamp.
+## 📁 Featured Projects
+
+- 🌐 [Portfolio:](https://caro9926.github.io/) My personal website.  
+- 📄 [PDF Table Extractor:](https://github.com/Caro9926/PDF_Scrapping) Tool to extract and organize tabular data from PDFs. <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">  
+- 🔎 [Web Scraping Tool:](#) Automation script for extracting structured data from dynamic websites. *(Coming soon)*  
+- 📝 [Audit & Supervision Form:](#) Standardized form designed to support field audits and supervision processes. *(In progress)*  
+- 🦠 [Dengue & Sanitation Analysis:](#) Research-driven data project linking public health and sanitation indicators. *(Upcoming)*
+
+### 🗂️ Archived Projects
+
+- [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Exercises completed during the Coding Dojo 2022 Web Development Bootcamp.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="60"> My Skill Set 
 
