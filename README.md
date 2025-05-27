@@ -15,7 +15,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 ## 📁 Featured Projects
 
 - 🌐 [Portfolio:](https://caro9926.github.io/) My personal website.  
-- 📄 [CV Summary:](https://github.com/Caro9926/CV-s-Resumen) Python code to extract CV summary in spanish. You can also adapt it to English. 
+- 📄 [CV Summary:](https://github.com/Caro9926/CV-s-Resumen) Python code to extract CV summary in Spanish. You can also adapt it to English. 
 - 🔎 [Web Scraping Tool:](#) Automation script for extracting structured data from dynamic websites. *(Coming soon)*  
 - 📝 [Audit & Supervision Form:](#) Standardized form designed to support field audits and supervision processes. *(In progress)*  
 - 🦠 [Dengue & Sanitation Analysis:](#) Research-driven data project linking public health and sanitation indicators. *(Upcoming)*
