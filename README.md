@@ -24,6 +24,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 ### 🗂️ Archived Projects
 
 - [Assignments Coding Dojo:](https://github.com/Caro9926/CodingDojo_Assignments) Exercises completed during the Coding Dojo 2022 Web Development Bootcamp.
+- [Java Projects:](https://github.com/Caro9926/JAVA-Projects) Projects made in JAVA during the Coding Dojo 2022 Web Development Bootcamp.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="60"> My Skill Set 
 
