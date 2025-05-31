@@ -37,7 +37,9 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 Economics and data science articles I have written: 
 <!-- BLOG-POST-LIST:END -->  
 
-- <div align="left"> <a href="https://www.thewhyhub.com/post/el-enemigo-com%C3%BAn-sesgos"> El enemigo en común: sesgos </div>  
+- <div align="left"> <a href="https://thewhyhub.com/el-barrismo-social-como-un-ecosistema-medible-para-el-cambio-social/"> El barrismo social como un ecosistema medible para el cambio social </div> 
+- <div align="left"> <a href="https://thewhyhub.com/como-utilizar-el-enfoque-de-gestion-por-resultados-en-la-vida-real-el-caso-de-la-tendencia-de-los-cuchareables/"> ¿Cómo utilizar el enfoque de Gestión por Resultados en la vida real?: El caso de la tendencia de ‘los cuchareables’ </div> 
+- <div align="left"> <a href="https://thewhyhub.com/el-enemigo-comun-sesgos/"> El enemigo en común: sesgos </div>  
 - <div align="left"><a href="https://datasciencepe.substack.com/p/dual-tone-multiple-frequency-dtmf"> Dual-Tone Multiple Frequency (DTMF): Implementaciones en encuestas telefónicas</div>  
 - <div align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6873039882248355840/"> Cambio climático y pobreza </div>  
 - <div align="left"><a href="https://datasciencepe.substack.com/p/herramientas-de-machine-learning"> Herramientas de Machine Learning para Business Intelligence </div>
