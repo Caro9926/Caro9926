@@ -16,7 +16,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 - 🌐 [Portfolio:](https://caro9926.github.io/) My personal website.  
 - 📄 [CV Summary:](https://github.com/Caro9926/CV-s-Resumen) Python code to extract CV summary in Spanish. You can also adapt it to English.
-- 📇 [PDF Scrapping Electronic Invoices:] Code to extract information from electronic invoices from Chile and Peru.
+- 📇 [Parsing Invoices Chile and Peru:](https://github.com/Caro9926/Parsing_Invoices_Chile_Peru) Code to extract information from electronic invoices from Chile and Peru.
 - 📝 [Audit & Supervision Form:](#) Standardized form designed to support field audits and supervision processes. *(In progress)*
 - 🔎 [Web Scraping Tool:](#) Automation script for extracting structured data from dynamic websites. *(Coming soon)*  
 - 🦠 [Dengue & Sanitation Analysis:](#) Research-driven data project linking public health and sanitation indicators. *(Upcoming)*
