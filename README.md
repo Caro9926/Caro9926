@@ -18,9 +18,6 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - 📄 [CV Summary:](https://github.com/Caro9926/CV-s-Resumen) Python code to extract CV summary in Spanish. You can also adapt it to English.
 - 📇 [Parsing Invoices Chile and Peru:](https://github.com/Caro9926/Parsing_Invoices_Chile_Peru) Code to extract information from electronic invoices from Chile and Peru.
 - 📚 [Workshop on Applied Microeconometrics:](https://github.com/Caro9926/microeconometria-taller) Workshop on Applied Microeconometrics for undergraduate students in Economics. The workshop is in Spanish.
-- 📝 [Audit & Supervision Form:](#) Standardized form designed to support field audits and supervision processes. *(In progress)*
-- 🔎 [Web Scraping Tool:](#) Automation script for extracting structured data from dynamic websites. *(Coming soon)*  
-- 🦠 [Dengue & Sanitation Analysis:](#) Research-driven data project linking public health and sanitation indicators. *(Upcoming)*
 
 ### 🗂️ Archived Projects
 
