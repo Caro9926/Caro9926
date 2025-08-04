@@ -17,7 +17,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - 🌐 [Portfolio:](https://caro9926.github.io/) My personal website.  
 - 📄 [CV Summary:](https://github.com/Caro9926/CV-s-Resumen) Python code to extract CV summary in Spanish. You can also adapt it to English.
 - 📇 [Parsing Invoices Chile and Peru:](https://github.com/Caro9926/Parsing_Invoices_Chile_Peru) Code to extract information from electronic invoices from Chile and Peru.
-- 📚 [Workshop on Applied Microeconometrics:](https://github.com/Caro9926/microeconometria-taller) Workshop on Applied Microeconometrics for undergraduate students in Economics. The workshop is in Spanish.
+- 📚 [Workshop on Applied Microeconometrics:](https://github.com/Caro9926/microeconometria-taller) Workshop on Applied Microeconometrics for undergraduate students in Economics. This material belongs to [Emily Saavedra](https://github.com/Emilyliz) and me. The workshop is in Spanish.
 
 ### 🗂️ Archived Projects
 
