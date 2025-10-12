@@ -48,7 +48,7 @@ Economics and data science articles I have written:
 - <div align="left"> <a href="https://thewhyhub.com/el-barrismo-social-como-un-ecosistema-medible-para-el-cambio-social/"> El barrismo social como un ecosistema medible para el cambio social </div> 
 - <div align="left"> <a href="https://thewhyhub.com/como-utilizar-el-enfoque-de-gestion-por-resultados-en-la-vida-real-el-caso-de-la-tendencia-de-los-cuchareables/"> ¿Cómo utilizar el enfoque de Gestión por Resultados en la vida real?: El caso de la tendencia de ‘los cuchareables’ </div> 
 - <div align="left"> <a href="https://thewhyhub.com/el-enemigo-comun-sesgos/"> El enemigo en común: sesgos </div>  
-- <div align="left"><a href="https://datasciencepe.substack.com/p/dual-tone-multiple-frequency-dtmf"> Dual-Tone Multiple Frequency (DTMF): Implementaciones en encuestas telefónicas</div>  
+- <div align="left"><a href="https://saavedrac.substack.com/p/dual-tone-multiple-frequency-dtmf?r=ubhw0"> Dual-Tone Multiple Frequency (DTMF): Applications in Safe and Gender-Sensitive Phone Surveys </div>  
 - <div align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6873039882248355840/"> Cambio climático y pobreza </div>  
 - <div align="left"><a href="https://datasciencepe.substack.com/p/herramientas-de-machine-learning"> Herramientas de Machine Learning para Business Intelligence </div>
 - <div align="left"><a href="https://womenineconomicsperu.blogspot.com/2021/10/impuesto-rosa-el-uso-de-productos-de.html?fbclid=IwAR2TKR99_z1wq3ixkcj5jnDAOGlBSRP8r5n_qC6RZR8x6aoeJPKNRgB2Jms"> Impuesto rosa, el uso de productos de higiene femenina y la asistencia escolar </div>
