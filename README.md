@@ -6,7 +6,6 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 - 🚀 Currently, I am a Design Product at <a href="https://www.thewhyhub.com/">The Why Hub</a>. In parallel, I work as a Quantitative Research Consultant at Equilibrium, where I evaluate a WASH program in Venezuela.
 - 🌱 I am always learning and looking for new challenges.  
-- 📚 I love sharing knowledge and collaborating on interesting projects.
 - 💡 I also lead initiatives such as [Women in GitHub](https://github.com/WomenInGitH), a program that empowers women researchers and professionals in the social sciences to build technical and open projects on GitHub.
 - 🏰 I have an advanced level of English and I am learning French.  
 - 🎓 Currently studying to become a certified Data Scientist — already certified as a Data Analyst — while also exploring the world of Artificial Intelligence with curiosity and purpose.
@@ -16,7 +15,6 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 ## 📁 Featured Projects
 
 - 🌐 [Portfolio:](https://caro9926.github.io/) My personal website.  
-
 - 📇 [Parsing Invoices Chile and Peru:](https://github.com/Caro9926/Parsing_Invoices_Chile_Peru) Code to extract information from electronic invoices from Chile and Peru.
 - 📚 [Workshop on Applied Microeconometrics:](https://github.com/Caro9926/microeconometria-taller) Workshop on Applied Microeconometrics for undergraduate students in Economics. This material belongs to [Emily Saavedra](https://github.com/Emilyliz) and me. The workshop is in Spanish.
 - 🌤️ [Random forest](https://github.com/malozadal/RandomForestIRA): Early detection system for acute respiratory diseases in Peru using Random Forest, combining climate and population data for predictive alerts.This was a collaboration between [Monica Lozada](https://github.com/malozadal) and me.
