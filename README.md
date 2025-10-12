@@ -16,10 +16,11 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 ## 📁 Featured Projects
 
 - 🌐 [Portfolio:](https://caro9926.github.io/) My personal website.  
-- 📄 [CV Summary:](https://github.com/Caro9926/CV-s-Resumen) Python code to extract CV summary in Spanish. You can also adapt it to English.
+
 - 📇 [Parsing Invoices Chile and Peru:](https://github.com/Caro9926/Parsing_Invoices_Chile_Peru) Code to extract information from electronic invoices from Chile and Peru.
 - 📚 [Workshop on Applied Microeconometrics:](https://github.com/Caro9926/microeconometria-taller) Workshop on Applied Microeconometrics for undergraduate students in Economics. This material belongs to [Emily Saavedra](https://github.com/Emilyliz) and me. The workshop is in Spanish.
 - 🌤️ [Random forest](https://github.com/malozadal/RandomForestIRA): Early detection system for acute respiratory diseases in Peru using Random Forest, combining climate and population data for predictive alerts.This was a collaboration between [Monica Lozada](https://github.com/malozadal) and me.
+- 📄 [CV Summary:](https://github.com/Caro9926/CV-s-Resumen) Python code to extract CV summary in Spanish. You can also adapt it to English.
 
 ### 🗂️ Archived Projects
 
