@@ -33,6 +33,15 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 - 🛠️ [Front-End Development]: HTML, CSS & JavaScript  
 - 📊 [Data Visualization]: Excel & Power BI
 
+## 🤝 Community & Initiatives
+
+- **Women in GitHub** — Founder and community lead.  
+  A collective space that connects and supports women in the social sciences who want to showcase their research and code on GitHub.
+
+- **Debug Colectiva** — Program under *Women in GitHub*.  
+  Focused on mentorship, collaborative coding, and reproducibility.  
+  > +45 applications | 7 selected participants | 4 mentors | 5 technical sessions (Git, GitHub, reproducibility, collaborative workflows)
+
 ## <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="60"> Articles Posts  
 <!-- BLOG-POST-LIST:START -->  
 Economics and data science articles I have written: 
