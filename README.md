@@ -47,8 +47,8 @@ Economics and data science articles I have written:
 
 - <div align="left"> <a href="https://saavedrac.substack.com/publish/posts/detail/176450408?referrer=%2Fpublish%2Fposts%2Fpublished/"> Social Barrism as a Measurable Ecosystem for Social Change </div> 
 - <div align="left"><a href="https://saavedrac.substack.com/p/dual-tone-multiple-frequency-dtmf?r=ubhw0"> Dual-Tone Multiple Frequency (DTMF): Applications in Safe and Gender-Sensitive Phone Surveys </div>  
-- <div align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6873039882248355840/"> Cambio climático y pobreza </div>  
 - <div align="left"><a href="https://saavedrac.substack.com/p/machine-learning-tools-for-business"> Machine Learning Tools for Business Intelligence </div>
+- <div align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6873039882248355840/"> Cambio climático y pobreza </div>  
 - <div align="left"><a href="https://womenineconomicsperu.blogspot.com/2021/10/impuesto-rosa-el-uso-de-productos-de.html?fbclid=IwAR2TKR99_z1wq3ixkcj5jnDAOGlBSRP8r5n_qC6RZR8x6aoeJPKNRgB2Jms"> Impuesto rosa, el uso de productos de higiene femenina y la asistencia escolar </div>
 
 
