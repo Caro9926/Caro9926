@@ -6,7 +6,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 - 🚀 Currently, I am a Design Product at <a href="https://www.thewhyhub.com/">The Why Hub</a>. In parallel, I work as a Quantitative Research Consultant at Equilibrium, where I evaluate a WASH program in Venezuela.
 - 🌱 I am always learning and looking for new challenges.  
-- 💡 I also lead initiatives such as [Debug Colectiva](https://github.com/WomenInGitH), a program that empowers women researchers and professionals in the social sciences to build technical and open projects on GitHub.
+- 💡 I also lead initiatives such as [Debug Colectiva](https://github.com/DebugColectiva), a program that empowers women researchers and professionals in the social sciences to build technical and open projects on GitHub.
 - 🏰 I have an advanced level of English and I am learning French.  
 - 🎓 Currently studying to become a certified Data Scientist — already certified as a Data Analyst — while also exploring the world of Artificial Intelligence with curiosity and purpose.
 
@@ -33,10 +33,10 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 ## 🤝 Community & Initiatives
 
-- **Women in GitHub** — Founder and community lead.  
+- **Debug Colectiva Organization** — Founder and community lead.  
   A collective space that connects and supports women in the social sciences who want to showcase their research and code on GitHub.
 
-- **Debug Colectiva** — Program under *Women in GitHub*.  
+- **Debug Colectiva Program** — Our star program. 
   Focused on mentorship, collaborative coding, and reproducibility.  
   > +45 applications | 7 selected participants | 6 mentors | 2 technical sessions (Git, GitHub, reproducibility, collaborative workflows) | 3 collaborative spaces
 
@@ -44,7 +44,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 <!-- BLOG-POST-LIST:START -->  
 Economics and data science articles I have written: 
 <!-- BLOG-POST-LIST:END -->  
-
+- <div align="left"> <a href="https://saavedrac.substack.com/p/enumerators-as-the-hidden-protagonists"> Enumerators as the Hidden Protagonists of Research: Why Investing in Their Training Is Essential for High-Quality Results </div> 
 - <div align="left"> <a href="https://saavedrac.substack.com/publish/posts/detail/176450408?referrer=%2Fpublish%2Fposts%2Fpublished/"> Social Barrism as a Measurable Ecosystem for Social Change </div> 
 - <div align="left"><a href="https://saavedrac.substack.com/p/dual-tone-multiple-frequency-dtmf?r=ubhw0"> Dual-Tone Multiple Frequency (DTMF): Applications in Safe and Gender-Sensitive Phone Surveys </div>  
 - <div align="left"><a href="https://saavedrac.substack.com/p/machine-learning-tools-for-business"> Machine Learning Tools for Business Intelligence </div>
