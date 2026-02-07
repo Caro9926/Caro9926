@@ -6,7 +6,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 - 🚀 Currently, I am a Design Product at <a href="https://www.thewhyhub.com/">The Why Hub</a>. In parallel, I work as a Quantitative Research Consultant at Equilibrium, where I evaluate a WASH program in Venezuela.
 - 🌱 I am always learning and looking for new challenges.  
-- 💡 I also lead initiatives such as [Women in GitHub](https://github.com/WomenInGitH), a program that empowers women researchers and professionals in the social sciences to build technical and open projects on GitHub.
+- 💡 I also lead initiatives such as [Debug Colectiva](https://github.com/WomenInGitH), a program that empowers women researchers and professionals in the social sciences to build technical and open projects on GitHub.
 - 🏰 I have an advanced level of English and I am learning French.  
 - 🎓 Currently studying to become a certified Data Scientist — already certified as a Data Analyst — while also exploring the world of Artificial Intelligence with curiosity and purpose.
 
