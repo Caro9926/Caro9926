@@ -44,7 +44,7 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 <!-- BLOG-POST-LIST:START -->  
 Economics and data science articles I have written: 
 <!-- BLOG-POST-LIST:END -->  
-- <div align="left"> <a href="https://saavedrac.substack.com/p/enumerators-as-the-hidden-protagonists"> Enumerators as the Hidden Protagonists of Research: Why Investing in Their Training Is Essential for High-Quality Results </div> 
+- <div align="left"> <a href="https://saavedrac.substack.com/p/enumerators-as-the-hidden-protagonists"> Enumerators as the Hidden Protagonists of Research </div> 
 - <div align="left"> <a href="https://saavedrac.substack.com/publish/posts/detail/176450408?referrer=%2Fpublish%2Fposts%2Fpublished/"> Social Barrism as a Measurable Ecosystem for Social Change </div> 
 - <div align="left"><a href="https://saavedrac.substack.com/p/dual-tone-multiple-frequency-dtmf?r=ubhw0"> Dual-Tone Multiple Frequency (DTMF): Applications in Safe and Gender-Sensitive Phone Surveys </div>  
 - <div align="left"><a href="https://saavedrac.substack.com/p/machine-learning-tools-for-business"> Machine Learning Tools for Business Intelligence </div>
