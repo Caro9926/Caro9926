@@ -4,11 +4,12 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Little things about me 
 
-- 🚀 Currently, I am a Design Product at <a href="https://www.thewhyhub.com/">The Why Hub</a>. In parallel, I work as a Quantitative Research Consultant at Equilibrium, where I evaluate a WASH program in Venezuela.
+- 🚀 I designed and built **Frida ToC** together with <a href="https://www.thewhyhub.com/">The Why Hub</a>, where I worked as a Product Designer. Frida ToC is a chatbot that helps you build your Theory of Change from scratch and align it with funding applications or your strategic planning.
 - 🌱 I am always learning and looking for new challenges.  
 - 💡 I also lead initiatives such as [Debug Colectiva](https://github.com/DebugColectiva), a program that empowers women researchers and professionals in the social sciences to build technical and open projects on GitHub.
 - 🏰 I have an advanced level of English and I am learning French.  
-- 🎓 Currently studying to become a certified Data Scientist — already certified as a Data Analyst — while also exploring the world of Artificial Intelligence with curiosity and purpose.
+- 🎓 Certified Data Scientist and Data Analyst. I also build AI-powered apps and chatbots, combining data and Generative AI to solve real problems.
+- 🔍 Currently open to new opportunities. Feel free to reach out!
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  width="50"> Featured Repositories
 
@@ -29,16 +30,14 @@ Welcome to my space on GitHub. I am passionate about integrating programming too
 
 - 💻 [Statistics & Data Tools]: STATA, Python, SQL & R  
 - 🛠️ [Front-End Development]: HTML, CSS & JavaScript  
-- 📊 [Data Visualization]: Excel, Power BI & Tableau
+- 📊 [Data Visualization]: Excel, Power BI, DataStudio & Tableau
 
 ## 🤝 Community & Initiatives
 
 - **Debug Colectiva Organization** — Founder and community lead.  
   A collective space that connects and supports women in the social sciences who want to showcase their research and code on GitHub.
 
-- **Debug Colectiva Program** — Our star program. 
-  Focused on mentorship, collaborative coding, and reproducibility.  
-  > +45 applications | 7 selected participants | 6 mentors | 2 technical sessions (Git, GitHub, reproducibility, collaborative workflows) | 3 collaborative spaces
+  📢 **Follow us:** [LinkedIn](https://www.linkedin.com/company/debug-colectiva/?viewAsMember=true) | [Web page](https://debugcolectiva.github.io/)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="60"> Articles Posts  
 <!-- BLOG-POST-LIST:START -->  
